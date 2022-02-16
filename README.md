@@ -1,2 +1,4 @@
-# feb-16_1
-assn1
+i=0
+while i<5:
+    print(i)
+    i+=1
